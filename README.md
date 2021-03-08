@@ -8,6 +8,6 @@
 
 ### Output
 
-![Figure 1](Images/Output.png)
+![Figure 1](Images/Output.PNG)
 
 Fig: Output of Extracting number plate text from images
